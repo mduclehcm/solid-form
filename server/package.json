@@ -2,6 +2,6 @@
   "name": "solid-form",
   "main": "../dist/server/index.cjs.js",
   "module": "../dist/server/index.ems.js",
-  "types": "../types/server.d.ts",
+  "types": "../types/index.d.ts",
   "sideEffects": false
 }

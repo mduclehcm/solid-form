@@ -11,3 +11,7 @@ Build 60fps form with [solid-js](https://github.com/ryansolid/solid/tree/master/
 ```bash
 npm install solid-form
 ```
+
+## Examples
+
+- Simple Form [codesanbox](https://codesandbox.io/s/solid-form-2t8if?file=/App.tsx)

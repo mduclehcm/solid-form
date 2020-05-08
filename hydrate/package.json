@@ -2,6 +2,6 @@
   "name": "solid-form",
   "main": "../dist/hydrate/index.cjs.js",
   "module": "../dist/hydrate/index.esm.js",
-  "types": "../types/client.d.ts",
+  "types": "../types/index.d.ts",
   "sideEffects": false
 }
